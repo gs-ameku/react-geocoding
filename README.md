@@ -13,9 +13,12 @@ React.js を使用して、Geocoding サービスを作成する
 yarn がインストールされていない場合、yarn をインストールする。
 
 1. プロジェクトをローカルにクローンする
+
 ```
 git clone https://github.com/gs-ameku/react-geocoding.git
 ```
+
+2. プロジェクトのディレクトリに移動して、ブラウザで起動する
 
 ```bash
 yarn run start
